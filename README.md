@@ -2,7 +2,7 @@
 - 
 - 👀 I’m interested in anything nerdy and geeky, really.
 - 
-- 🌱 I’m currently learning how to properly use python as a data science environment. I'll be trying out some ways of using different packages!
+- 🌱 I’m currently learning how to properly use Python as a data science environment. I'll be trying out some ways of using different packages!
 - 
 - 😄 Pronouns: he/him
 
